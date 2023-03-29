@@ -30,6 +30,7 @@ body {
 }
 
 .images1 {
+    position: absolute;
     top: 0;
     display: grid;
     grid-template-columns: 1fr 1fr;
